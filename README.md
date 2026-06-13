@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Typing+SVG&weight=900&size=22&pause=1000&color=29F711&center=true&width=435&lines=Hi%2C+I'm+Sakkarin%E3%80%94+BrainNotResponding+%E3%80%95;CS+Student+%40+MSU;Analyzing+Malware+%26+Hunting+Flags;Code+by+day%2C+exploit+by+night;status+%3D%3D+%22BrainNotResponding%22" alt="Typing SVG" />
+</p>
 
-<!--
-**SakkarinAnuwet/SakkarinAnuwet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">〔 Code ・AI ・ CTF ・ Hack 〕</h3>
 
-Here are some ideas to get you started:
+---
+##  About Me <img src="https://komarev.com/ghpvc/?username=BrainNotResponding&label=Profile%20Views&color=brightgreen&style=flat-square" valign="middle" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **🇹🇭 Based in Maha Sarakham, Thailand**
+*  **Computer Science Student @ Mahasarakham University**
+*  **Focus: Exploit Development, Web Application Auditing, Secure Software Architecture, Reverse Engineering**
+*  **You can contact me at** [dragonmld1122@gmail.com](mailto:dragonmld1122@gmail.com)
+
+---
+## Tech Stack & Tools 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,linux,vscode,kali,html,nodejs,github" />
+</p>
+
+
+ ---
+## Socials
+<p align="center">
+  <a href="https://www.github.com/BrainNotResponding" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture>
+  </a></p>
